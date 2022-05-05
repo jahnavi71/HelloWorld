@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 50B8-08B4
+
+ Directory of C:\Users\jahnavi kadari\Java Programs
+
+05-05-2022  14:20    <DIR>          .
+05-05-2022  14:20    <DIR>          ..
+05-05-2022  13:42               469 Hello.class
+05-05-2022  13:37               619 Hello.java
+05-05-2022  14:12               498 readme.txt
+05-05-2022  14:20                 0 redmemore.txt
+19-11-2021  18:51               417 Simple.class
+               5 File(s)          2,003 bytes
+               2 Dir(s)  851,390,271,488 bytes free
